@@ -1,0 +1,41 @@
+TRIAL 1
+Total time for 1 iterations: 56 ms
+Average time per call: 56.0 ms
+Total time for 10 iterations: 0 ms
+Average time per call: 0.0 ms
+Total time for 100 iterations: 5 ms
+Average time per call: 0.05 ms
+Total time for 1000 iterations: 23 ms
+Average time per call: 0.023 ms
+Total time for 10000 iterations: 723 ms
+Average time per call: 0.0723 ms
+Total time for 100000 iterations: 89021 ms
+Average time per call: 0.89021 ms
+
+TRIAL 2
+Total time for 1 iterations: 26 ms
+Average time per call: 26.0 ms
+Total time for 10 iterations: 0 ms
+Average time per call: 0.0 ms
+Total time for 100 iterations: 3 ms
+Average time per call: 0.03 ms
+Total time for 1000 iterations: 39 ms
+Average time per call: 0.039 ms
+Total time for 10000 iterations: 734 ms
+Average time per call: 0.0734 ms
+Total time for 100000 iterations: 87721 ms
+Average time per call: 0.87721 ms
+
+TRIAL 3
+Total time for 1 iterations: 27 ms
+Average time per call: 27.0 ms
+Total time for 10 iterations: 0 ms
+Average time per call: 0.0 ms
+Total time for 100 iterations: 2 ms
+Average time per call: 0.02 ms
+Total time for 1000 iterations: 22 ms
+Average time per call: 0.022 ms
+Total time for 10000 iterations: 757 ms
+Average time per call: 0.0757 ms
+Total time for 100000 iterations: 79939 ms
+Average time per call: 0.79939 ms

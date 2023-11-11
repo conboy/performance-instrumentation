@@ -1,0 +1,9 @@
+STARTTIMING: main
+|	STARTTIMING: populateArray
+|	STOPTIMING: populateArray 2ms
+|	STARTTIMING: bubble sort
+|	STOPTIMING: bubble sort 87ms
+|	STARTTIMING: quick sort
+|	STOPTIMING: quick sort 3ms
+STOPTIMING: main 122ms
+TOTAL TIME: 122ms

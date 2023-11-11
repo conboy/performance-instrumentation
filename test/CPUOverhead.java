@@ -7,12 +7,12 @@ public class CPUOverhead {
     public static void main(String[] args) throws InterruptedException {
         ins.activate(true);
  
-        CPUtest(1);
-        CPUtest(10);
-        CPUtest(100);
-        CPUtest(1000);
+        // CPUtest(1);
+        // CPUtest(10);
+        // CPUtest(100);
+        // CPUtest(1000);
         CPUtest(10000);
-        CPUtest(100000);
+        // CPUtest(100000);
     }
     static void CPUtest(int N) {
         int counter = 0;

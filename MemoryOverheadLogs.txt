@@ -1,0 +1,30 @@
+Memory used for 1 iterations:       0 bytes
+Memory used for 1 iterations:       0 bytes
+Memory used for 1 iterations:       0 bytes
+
+Memory used for 10 iterations:      7462040 bytes
+Memory used for 10 iterations:      7462040 bytes
+Memory used for 10 iterations:      7462040 bytes
+
+Memory used for 100 iterations:     49934096 bytes
+Memory used for 100 iterations:     56223800 bytes
+Memory used for 100 iterations:     40824944 bytes
+Memory used for 100 iterations:     40823048 bytes
+Memory used for 100 iterations:     30862400 bytes
+Memory used for 100 iterations:     56223808 bytes
+Memory used for 100 iterations:     50916032 bytes
+
+Memory used for 1000 iterations:    75778264 bytes
+Memory used for 1000 iterations:    81637600 bytes
+Memory used for 1000 iterations:    73256752 bytes
+Memory used for 1000 iterations:    35512984 bytes
+Memory used for 1000 iterations:    151259632 bytes
+Memory used for 1000 iterations:    75780328 bytes
+Memory used for 1000 iterations:    59002104 bytes
+
+Memory used for 10000 iterations:   262894064 bytes
+Memory used for 10000 iterations:   578766400 bytes
+Memory used for 10000 iterations:   107713472 bytes
+Memory used for 10000 iterations:   398419328 bytes
+Memory used for 10000 iterations:   539704760 bytes
+Memory used for 10000 iterations:   40606288 bytes
